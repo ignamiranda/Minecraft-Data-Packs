@@ -24,3 +24,7 @@ A custom dimension that you get to by flying over a certain height. If you fall 
 ### Player Zombification
 
 If a player is killed by a zombie, they turn into a zombie that has their face and is wearing all their stuff.
+
+### Vanilla Infernal Mobs
+
+A datapack recreation of [AtomicStryker's Infernal Mobs]()
