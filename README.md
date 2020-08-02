@@ -9,6 +9,20 @@ Upon spawning, mobs' health is multiplied by the number of players. With configu
 
 Mobs that can spawn riding all sorts of animals
 
+Overworld:
+* Creepers writing angry bees
+* Skeletons riding wolves
+* Drowned riding dolphins (not currently possible)
+* Zombies/Husks riding Zombie Horse
+* Zombies/Skeletons riding Slimes
+* Baby zombies riding silverfish
+* Baby zombies riding creepers/zombies/skeletons
+
+Nether:
+* Skeletons/Crossbow Piglins riding Striders in Lava
+* Skeletons/Wither Skeletons riding Magma Cubes
+* Zombie Piglin riding a Zoglin
+
 ### Solstice
 
 Every X days, there is a day where the sun doesn't come up
