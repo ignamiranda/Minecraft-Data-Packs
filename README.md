@@ -1,6 +1,11 @@
 # Minecraft-Data-Packs
 
 ## Datapack Ideas:
+
+### Custom Biomes
+
+*
+
 ### Multiplayer Mob Health Scaling
 
 Upon spawning, mobs' health is multiplied by the number of players. With configurable min and max multiplier.
